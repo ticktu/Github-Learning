@@ -3,6 +3,8 @@
 #include <stdint.h>
 #include <string.h>
 
+#test
+
 int main(int argc,char *argv[])
 {
 	FILE *sf,*df;
