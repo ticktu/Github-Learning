@@ -3,7 +3,7 @@
 #include <stdint.h>
 #include <string.h>
 
-int fun()
+int main()
 {
 	printf("hello");
 	return 1;
