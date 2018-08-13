@@ -3,6 +3,9 @@
 #include <stdint.h>
 #include <string.h>
 
+int test()
+{
+}
 
 int main(int argc,char *argv[])
 {
