@@ -4,7 +4,7 @@
 #include <string.h>
 
 #test
-#test
+#testafssaf
 #test
 int main(int argc,char *argv[])
 {
