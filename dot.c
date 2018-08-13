@@ -3,14 +3,14 @@
 #include <stdint.h>
 #include <string.h>
 
-int fun()
+int FILE()
 {
 	printf("hello");
 	return 1;
-}
-
+} 
+ 
 int main(int argc,char *argv[])
-{
+{ 
 	FILE *sf,*df;
 
 	char drive[_MAX_DRIVE];
