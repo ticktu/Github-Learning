@@ -3,8 +3,10 @@
 #include <stdint.h>
 #include <string.h>
 
-int test()
+int fun()
 {
+	printf("hello");
+	return 1;
 }
 
 int main(int argc,char *argv[])
